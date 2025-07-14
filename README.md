@@ -52,3 +52,5 @@ Puedes guardar el cálculo en un archivo `.txt` para consulta o registro.
 ---
 
 **Cualquier duda, mejora o sugerencia, crea un issue en el repo.**
+
+Traduce tu conversacion al formato que lee para que funcione.
